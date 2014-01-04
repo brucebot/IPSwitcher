@@ -1,4 +1,4 @@
-IPSwitch
+IPSwitcher
 ========
 
-Switch IP address for windows between static and dhcp
+Switch IP address for windows 7 between static and dhcp
